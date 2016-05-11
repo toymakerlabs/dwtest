@@ -1,0 +1,11 @@
+*.sqlite3
+*.pyc
+*.pyo
+*.log
+*.pot
+.DS_Store
+__pycache__/
+pip-log.txt
+pip-delete-this-directory.txt
+node_modules/
+staticfiles/
